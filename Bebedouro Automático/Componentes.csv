@@ -1,0 +1,5 @@
+﻿Nome,Quantidade,Componente
+"U1",1," Arduino Uno R3"
+"M1",1," Motor CC"
+"PIEZO1",1," Piezo"
+"PIR1",1,"-8.766219964894486 , -395.5009789163287 , -174.0709592544976 , -155.55377202890088  Sensor PIR"
