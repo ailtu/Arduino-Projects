@@ -17,7 +17,7 @@ Lá contêm tambem uma planilha com todos os componentes usados e um arquivo .br
 To look at the code just look inside the project folders for a file or folder called "code".
 There they also contain a spreadsheet with all the components used and a .brd file with the project layout
 
-# Have License?
+# Tem Licensa? Have License?
 
 
 > Todo código desenvolvido aqui é livre para ser usado, baixado como quiser.
